@@ -13,4 +13,4 @@ Um script simples de keylogger.
 MIT
 
 # Doações
-- https://streamelements.com/thenasc/tip
+- https://bit.ly/thenascxstp
